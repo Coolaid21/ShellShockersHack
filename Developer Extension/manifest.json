@@ -8,7 +8,7 @@
 
   "content_scripts": [{
     "js": ["content.js"],
-    "matches": ["https://shellshock.io/*"]
+    "matches": ["https://scrambled.world/*"]
   }]
 
 }
